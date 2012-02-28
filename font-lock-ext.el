@@ -1,9 +1,9 @@
 ;;; font-lock-ext.el --- extensions to Emacs font-lock.el
 ;;
-;; Copyright 2011 Florian Kaufmann <sensorflo@gmail.com>
+;; Copyright 2011-2012 Florian Kaufmann <sensorflo@gmail.com>
 ;; 
 ;; Author: Florian Kaufmann <sensorflo@gmail.com>
-;; URL: http://sensorflo-emacs.googlecode.com/svn/trunk/font-lock-ext.el
+;; URL: https://github.com/sensorflo/font-lock-ext/
 ;; Created: 2011
 ;; Keywords: languages, faces
 ;; 
