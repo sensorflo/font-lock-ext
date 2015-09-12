@@ -45,6 +45,12 @@
   "Face for hi-lock mode."
   :group 'font-lock-faces)
 
+(defface font-lock-type-def
+  '((((background dark)) (:foreground "green"))
+    (t (:foreground "green")))
+  "Face for hi-lock mode."
+  :group 'font-lock-faces)
+
 ;; font-lock.el says (see definition of the variable font-lock-comment-face)
 ;; that there is actually no need to create variables that specify face names.
 ;; However it seems to be needed all the same.
